@@ -1,5 +1,5 @@
 [build]
-  functions = "path_to_your_functions_directory"
+  functions = "."
 
 [[redirects]]
   from = "/"
