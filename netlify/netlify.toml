@@ -1,0 +1,8 @@
+[build]
+  functions = "path_to_your_functions_directory"
+
+[[redirects]]
+  from = "/"
+  to = "/.netlify/functions/redirect"
+  status = 200
+  force = true
